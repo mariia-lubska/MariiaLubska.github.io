@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 03.05.2016, 12:12:49
+    Author     : neko
+*/
+body{
+    background-color: #efefef;
+}
+
+
+.main_div {
+    width: 513px;
+    height: 752px;
+    background-color: #ffffff;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    padding-top: 55px;        
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    height: 130px;
+    width: 130px;   
+}
+
+.line {
+    text-align: center;
+    line-height: 10px;
+    margin: 7px 0px 20px 0px;
+}
+
+.text {
+    font-size: 18px;
+    font-family: Minion Pro;
+    line-height: 27px;
+}
+
+.list {
+    margin: 25px 0 0 50px;
+}
+
+.paragraph{
+    margin: 18px 0px 0px 65px;
+}
