@@ -1,2 +1,2 @@
-# MariiaLubska.github.io
+# mariia-lubska.github.io
 GoIT FE Homework
